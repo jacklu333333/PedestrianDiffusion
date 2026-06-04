@@ -1,0 +1,102 @@
+{
+    "model": "PedestrianDiffusion",
+    "precision": "32-true",
+    "dataset": "RoNINs",
+    "lr": 1e-4,
+    "warm_up": 0.05,
+    "num_layers": 4,
+    "mamba_d_model": 160,
+    "mamba_d_state": 64,
+    "mamba_expand": 2,
+    "mamba_attn_mode": "mid_only",
+    "mamba_attn_heads": 5,
+    "mamba_attn_dim_head": 32,
+    "mamba_headdim": 32,
+    "latent_dim": 512,
+    "lr_finder": false,
+    "num_time_steps": 1000,
+    "target_time_steps": 1,
+    "cfg_drop_prob": 0.0,
+    "cfg_scale": 1.0,
+    "scheduler_s": 1e-07,
+    "scheduler_e": 2e-02,
+    "scheduler_mode": "squaredcos_cap_v2",
+    "peek_testing": {
+        "enable": false,
+        "n_epochs": 100,
+        "after": 0
+    },
+    "check_val_every_n_epoch": 1,
+    "ema": {
+        "enable": false,
+        "ema_decay": 0.9999
+    },
+    "encoding": true,
+    "useStep": false,
+    "GravityRemoval": false,
+    "step_duration_threshold": 120,
+    "window_size": 100,
+    "next_window": false,
+    "n_fft": 30,
+    "sampling_rate": 100,
+    "target_duration": 1,
+    "batch_size": 256,
+    "equal_sampling": false,
+    "accumulate_grad_batches": 1,
+    "pin_memory": true,
+    "num_workers": 2,
+    "shuffle": true,
+    "stride": 33,
+    "base_weight_path": "",
+    "vae_weight_path": "./weight/VAESpectrum_weight.ckpt",
+    "latent_vae_weight_path": "",
+    "video_rendering": false,
+    "train_phase": "initial",
+    "dual_stage": true,
+    "pre_augmentation": {
+        "enabled": true,
+        "probability": 1.0,
+        "mode": "XY",
+        "degree": 0
+    },
+    "augmentation": {
+        "rotationNoise": {
+            "probability": 0.0,
+            "mode": "wabble_XY",
+            "label_transform": false,
+            "degree": 3
+        },
+        "gaussianNoise": {
+            "probability": 0.0,
+            "accNoise": 0.01,
+            "gyrNoise": 0.01,
+            "magNoise": 0.01
+        },
+        "scaleNoise": {
+            "probability": 0.0,
+            "accNoise": 0.1,
+            "gyrNoise": 0.1,
+            "magNoise": 0.1
+        },
+        "shiftNoise": {
+            "probability": 0.0,
+            "accNoise": 0.1,
+            "gyrNoise": 0.1,
+            "magNoise": 0.1
+        },
+        "axisMasking": {
+            "probability": 0.0,
+            "max_channel": 5
+        },
+        "speedMasking": {
+            "probability": 0.0,
+            "threshold": 0.0
+        }
+    },
+    "gradient_clip_val": 1.0,
+    "gradient_clip_algorithm": "norm",
+    "limit_test_batches": null,
+    "inference_method": "euler",
+    "bridge_matching_zero_rate": 0.5,
+    "comment": ""
+}

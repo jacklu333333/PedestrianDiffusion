@@ -1,0 +1,6 @@
+datasets/Oxford Inertial Odometry Dataset/test/large-scale/floor1/imu1.csv,datasets/Oxford Inertial Odometry Dataset/test/large-scale/floor1/tango1.csv
+datasets/Oxford Inertial Odometry Dataset/test/large-scale/floor2/imu1.csv,datasets/Oxford Inertial Odometry Dataset/test/large-scale/floor2/tango1.csv
+datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/handbag/imu1.csv,datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/handbag/hand1.csv
+datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/handheld/imu1.csv,datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/handheld/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/pocket/imu1.csv,datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/pocket/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/trolley/imu1.csv,datasets/Oxford Inertial Odometry Dataset/test/multi-attachments/trolley/vi1.csv

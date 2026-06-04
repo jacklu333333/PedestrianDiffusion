@@ -1,0 +1,138 @@
+datasets/Oxford Inertial Odometry Dataset/handbag/data1/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/handbag/data1/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/handbag/data1/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handbag/data1/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handbag/data1/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/handbag/data1/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/handbag/data2/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/handbag/data2/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/handbag/data2/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handbag/data2/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handbag/data2/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/handbag/data2/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data1/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data2/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data2/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data2/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data2/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data3/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data4/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data5/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data5/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data5/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data5/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/handheld/data5/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/handheld/data5/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu10.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango10.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango2.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango3.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango4.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango5.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango6.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango7.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango8.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor1/syn/tango9.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango1.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu10.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango10.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu11.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango11.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu12.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango12.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu13.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango13.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu14.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango14.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu15.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango15.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu16.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango16.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu17.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango17.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu18.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango18.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango2.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango3.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango5.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango6.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango7.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango8.csv
+datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/large scale/floor4/syn/tango9.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 5/syn/vi9.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/iPhone 6/syn/vi9.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/multi devices/nexus 5/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user2/syn/vi9.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user3/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user4/syn/vi9.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu10.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi10.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/imu9.csv,datasets/Oxford Inertial Odometry Dataset/multi users/user5/syn/vi9.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data1/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/pocket/data2/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/running/data1/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/running/data1/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/running/data1/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/running/data1/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/running/data1/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/running/data1/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/running/data1/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/running/data1/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/running/data1/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/running/data1/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/running/data1/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/running/data1/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu3.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi3.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/imu8.csv,datasets/Oxford Inertial Odometry Dataset/slow walking/data1/syn/vi8.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/vi6.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/imu7.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data1/syn/vi7.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/imu1.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/vi1.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/imu2.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/vi2.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/imu4.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/vi4.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/imu5.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/vi5.csv
+datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/imu6.csv,datasets/Oxford Inertial Odometry Dataset/trolley/data2/syn/vi6.csv

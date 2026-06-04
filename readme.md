@@ -64,6 +64,16 @@ python testScript.py -d hybrid -b 256 --model PedestrianDiffusion  -w [weight_pa
 ./envsetup.sh
 ```
 
+### weight download
+```shell
+gdown 1vQP0zt6s2oYgjrdWdDAqWg4m5zoYhjUn
+```
+or via the link
+`
+https://drive.google.com/file/d/1vQP0zt6s2oYgjrdWdDAqWg4m5zoYhjUn/view?usp=sharing
+`
+
+
 ### Datasets
 
 1. please download the datasets and organize into such order

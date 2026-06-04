@@ -206,7 +206,7 @@ tqdm click rich coloredlogs colorlog \
 requests httpx aiohttp Flask SQLAlchemy sqlmodel \
 AHRS numpy-quaternion colored kornia overrides pyvista tensorboardX flatten-dict \
 kaleido black isort scienceplots imageio-ffmpeg anywidget pypose rosbags zarr onnxconverter-common ipympl litlogger \
-onnx2tf tensorflow tf-keras onnx-graphsurgeon ai-edge-litert sng4onnx onnxsim onnxscript thop qonnx deepspeed
+onnx2tf tensorflow tf-keras onnx-graphsurgeon ai-edge-litert sng4onnx onnxsim onnxscript thop qonnx deepspeed gdown
 
 # Optional: Ensure choreo_get_chrome function exists in your env if keeping this line
 choreo_get_chrome

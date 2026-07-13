@@ -20,3 +20,4 @@ from .VAETime import VAETime
 from .LLIOModule import LLIOModule
 from .PedestrianDiffusionSingleDomain import PedestrianDiffusionSingleDomain
 from .PedestrianDiffusionLSTM import PedestrianDiffusionLSTM
+from .DeepILSModule import DeepILSModule

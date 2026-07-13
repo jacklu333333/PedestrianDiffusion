@@ -90,20 +90,11 @@ class odomDataModule(pl.LightningDataModule):
             or "ionet" in self.config["model"].lower()
             or "tlio" in self.config["model"].lower()
             or "time" in self.config["model"].lower()
-            or "tinymodule" in self.config["model"].lower()
             or "lliomodule" in self.config["model"].lower()
-            or "hlsmodule" in self.config["model"].lower()
-            or "hifimodule" in self.config["model"].lower()
             or "vaegeneratormodule" in self.config["model"].lower()
-            or "cyclegan" in self.config["model"].lower()
             or "unet" in self.config["model"].lower()
             or "lstm" in self.config["model"].lower()
-            or "imudiffusionmodule" in self.config["model"].lower()
-            or "inertialbridge" in self.config["model"].lower()
-            or "inertialflow" in self.config["model"].lower()
-            or "inertialdiffusion" in self.config["model"].lower()
-            or "inertialdirectregression" in self.config["model"].lower()
-            or "PrimeVAEModule".lower() in self.config["model"].lower()
+            or "deepils" in self.config["model"].lower()
         ):
             transform.add_module(
                 "Time2Frequency",

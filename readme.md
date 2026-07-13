@@ -75,6 +75,10 @@ https://drive.google.com/file/d/1vQP0zt6s2oYgjrdWdDAqWg4m5zoYhjUn/view?usp=shari
 
 
 ### Datasets
+- [RIDI dataset](https://www.kaggle.com/datasets/kmader/ridi-robust-imu-double-integration)
+- [RoNIN dataset](https://doi.org/10.20383/102.0543)
+- [TLIO dataset](https://drive.google.com/file/d/14YKW7PsozjHo_EdxivKvumsQB7JMw1eg/view?usp=share_link)
+- [OxIOD dataset](https://forms.gle/wjE7u5AonoyyrgXJ7)
 
 1. please download the datasets and organize into such order
 2. Other than the RIDI and OxIOD, all datasets have the default train, val, test set indices. So please copy the train, val, and test list for RIDI to the datasets directory of RIDI.

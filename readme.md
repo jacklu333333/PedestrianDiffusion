@@ -109,8 +109,3 @@ https://drive.google.com/file/d/1vQP0zt6s2oYgjrdWdDAqWg4m5zoYhjUn/view?usp=shari
 ```
 
 
-### Notice
-* This version of code may constinas functions haven't verified yet. We will provide more complete, verified code on Github once the review process is over.
-* Some functions which are not mentioned above will work. But for the purpose of safe usage, please stay within the scope of the above command. 
-* Many configuration in the config.json file are deprecated. Adjusting it might not change anything, and some some parameter only works for certain models.
-

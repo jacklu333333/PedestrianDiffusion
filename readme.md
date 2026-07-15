@@ -18,6 +18,7 @@ python trainScript.py --model RoNINResNetModule --encoding False -d RoNINs -vae_
 python trainScript.py --model RoNINLSTMModule --encoding False -d RoNINs -vae_weight "" 2>&1 | tee diffusion_test_$(hostname).log
 python trainScript.py --model RoNINTCNModule --encoding False -d RoNINs -vae_weight "" 2>&1 | tee diffusion_test_$(hostname).log
 python trainScript.py --model TLIOModule --encoding False -d RoNINs -vae_weight "" 2>&1 | tee diffusion_test_$(hostname).log
+python trainScript.py --model DeepILSModule --encoding False -d RoNINs -vae_weight "" --sampling_rate 200 --window_size 200 2>&1 | tee diffusion_test_$(hostname).log
 ```
 
 - To replicate PedestrianDiffusion multi-datasets version
